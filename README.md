@@ -95,6 +95,12 @@ lib/
  - Reusability: Common widgets & helpers for consistency
 
 
+## 📦 Download APK
+[⬇️ Download Latest Release](https://github.com/bhargav28/my_flyn/releases/tag/v1.0.0)
+
+
+
+
 ## Screenshots
 
 <img src="screenshot/a.png" alt="Home Page" width="300"/>       <img src="screenshot/b.png" alt="Campaign Match" width="300"/>
