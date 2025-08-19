@@ -9,7 +9,7 @@
 
 
 
-lib/
+'''lib/
 ├── core/                 # Network & error handling
 │   ├── error/
 │   └── network/
@@ -25,7 +25,7 @@ lib/
 │   │   │       └── widgets/
 │   ├── common/              # Constants & reusable widgets
 │   ├── routes/              # App navigation
-│   └── utils/               # Helper files, dummy data, app config
+│   └── utils/               # Helper files, dummy data, app config'''
 
 
 
