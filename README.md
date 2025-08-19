@@ -95,10 +95,12 @@ lib/
  - Reusability: Common widgets & helpers for consistency
 
 
-## 📦 Download APK
+## 📦 Download APK 
 [⬇️ Download Latest Release](https://github.com/bhargav28/my_flyn/releases/tag/v1.0.0)
 
-
+## Video Links
+[Mobile App](https://github.com/bhargav28/my_flyn/releases/tag/video)
+[Project Description](https://github.com/bhargav28/my_flyn/releases/tag/video)
 
 
 ## Screenshots

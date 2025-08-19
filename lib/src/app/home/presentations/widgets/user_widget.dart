@@ -37,7 +37,7 @@ class UserWidget extends StatelessWidget {
         // Camera button
         InkWell(
           onTap: () async {
-            final XFile? pickedFile = await ImagePicker().pickImage(source: ImageSource.camera);
+            final XFile? pickedFile = await ImagePicker().pickImage(source: ImageSource.gallery);
 
             debugPrint("Image path: ${pickedFile?.path}");
           },
