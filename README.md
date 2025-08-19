@@ -8,8 +8,8 @@
  - The project follows clean architecture with data, domain, and presentation layers, using repositories, use-cases, and mappers.
 
 
-
-'''lib/
+''' Flutter
+lib/
 ├── core/                 # Network & error handling
 │   ├── error/
 │   └── network/
@@ -25,7 +25,8 @@
 │   │   │       └── widgets/
 │   ├── common/              # Constants & reusable widgets
 │   ├── routes/              # App navigation
-│   └── utils/               # Helper files, dummy data, app config'''
+│   └── utils/               # Helper files, dummy data, app config
+'''
 
 
 
