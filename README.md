@@ -97,8 +97,8 @@ lib/
 
 ## Screenshots
 
-![Home Screen](screenshot/a.png)
-![Campaign Match](screenshot/b.png)
-![My Information](screenshot/a.png)
-![Basic Information](screenshot/a.png)
-![Set Password](screenshot/a.png)
+<img src="screenshot/a.png" alt="Home Page" width="600"/>
+<img src="screenshot/b.png" alt="Campaign Match" width="600"/>
+<img src="screenshot/c.png" alt="My Information" width="600"/>
+<img src="screenshot/d.png" alt="Basic Information" width="600"/>
+<img src="screenshot/e.png" alt="Set Password" width="600"/>
