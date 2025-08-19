@@ -97,4 +97,8 @@ lib/
 
 ## Screenshots
 
-![Home Screen]9screenshot/a.png)
+![Home Screen](screenshot/a.png)
+![Campaign Match](screenshot/b.png)
+![My Information](screenshot/a.png)
+![Basic Information](screenshot/a.png)
+![Set Password](screenshot/a.png)
