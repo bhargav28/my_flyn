@@ -1,4 +1,4 @@
-###  🛠️ Project Summary – My Flyn
+#  🛠️ Project Summary – My Flyn
 ## Project Description
 
  - My Flyn is a Flutter project implementing a campaign management system with features such as:
@@ -48,21 +48,26 @@ lib/
 
 
 ## Running the Project
-# 1. Clone repo:
+### 1. Clone repo:
+
     git clone https://github.com/bhargav28/my_flyn.git
   
     cd my_flyn
-  
-# 2. Install dependencies:
+
+### 2. Install dependencies:
+
     flutter pub get
 
-# 3. Code generation
+### 3. Code generation
+
     flutter packages pub run build_runner build --delete-conflicting-outputs
 
-# 4. Run on Emulator/Device
+### 4. Run on Emulator/Device
+
     flutter run
 
-# 5. Build release version
+### 5. Build release version
+
     flutter build apk --release
 
 
