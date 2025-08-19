@@ -97,8 +97,8 @@ lib/
 
 ## Screenshots
 
-<img src="screenshot/a.png" alt="Home Page" width="300"/><img src="screenshot/b.png" alt="Campaign Match" width="300"/>
+<img src="screenshot/a.png" alt="Home Page" width="300"/>       <img src="screenshot/b.png" alt="Campaign Match" width="300"/>
 
-<img src="screenshot/c.png" alt="My Information" width="300"/>
-<img src="screenshot/d.png" alt="Basic Information" width="300"/>
+<img src="screenshot/c.png" alt="My Information" width="300"/>       <img src="screenshot/d.png" alt="Basic Information" width="300"/>
+
 <img src="screenshot/e.png" alt="Set Password" width="300"/>
