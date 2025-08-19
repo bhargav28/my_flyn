@@ -97,4 +97,4 @@ lib/
 
 ## Screenshots
 
-![Home Screen][README.screenshot/a.png]
+![Home Screen][screenshot/a.png]
