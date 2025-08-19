@@ -8,7 +8,7 @@
  - The project follows clean architecture with data, domain, and presentation layers, using repositories, use-cases, and mappers.
 
 
-'''bash
+'''
 lib/
 ├── core/                 # Network & error handling
 │   ├── error/
