@@ -7,7 +7,7 @@
  - Reactive UI using GetX for state management
  - The project follows clean architecture with data, domain, and presentation layers, using repositories, use-cases, and mappers.
 
-
+<pre>
 '''bash
 lib/
 ├── core/                 # Network & error handling
@@ -28,7 +28,7 @@ lib/
 │   └── utils/               # Helper files, dummy data, app config
 '''
 
-
+</pre>
 
 
 
