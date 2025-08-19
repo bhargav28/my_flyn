@@ -1,12 +1,13 @@
-### 🛠️ Project Summary – My Flyn
+###  🛠️ Project Summary – My Flyn
 ## Project Description
 
-My Flyn is a Flutter project implementing a campaign management system with features such as:
-Campaign listing and status tracking (CampaignListViewWidget, CampaignStatusWidget)
-User and profile management (MyInformationPage, SetPasswordPage)
-Time in/out or approval workflows (inferred from your pages)
-Reactive UI using GetX for state management
-The project follows clean architecture with data, domain, and presentation layers, using repositories, use-cases, and mappers.
+ - My Flyn is a Flutter project implementing a campaign management system with features such as:
+ - Campaign listing and status tracking (CampaignListViewWidget, CampaignStatusWidget)
+ - User and profile management (MyInformationPage, SetPasswordPage)
+ - Reactive UI using GetX for state management
+ - The project follows clean architecture with data, domain, and presentation layers, using repositories, use-cases, and mappers.
+
+
 
 lib/
 ├── core/                 # Network & error handling
@@ -25,6 +26,8 @@ lib/
 │   ├── common/              # Constants & reusable widgets
 │   ├── routes/              # App navigation
 │   └── utils/               # Helper files, dummy data, app config
+
+
 
 
 ## Highlights:
@@ -46,21 +49,21 @@ lib/
 
 ## Running the Project
 # 1. Clone repo:
-    == git clone https://github.com/bhargav28/my_flyn.git
+    git clone https://github.com/bhargav28/my_flyn.git
   
-    == cd my_flyn
+    cd my_flyn
   
 # 2. Install dependencies:
-    == flutter pub get
+    flutter pub get
 
 # 3. Code generation
-    == flutter packages pub run build_runner build --delete-conflicting-outputs
+    flutter packages pub run build_runner build --delete-conflicting-outputs
 
 # 4. Run on Emulator/Device
-    == flutter run
+    flutter run
 
 # 5. Build release version
-    == flutter build apk --release
+    flutter build apk --release
 
 
 ## Implementation Decisions
