@@ -93,3 +93,8 @@ lib/
  - Permissions: Handled camera, gallery, and file access with runtime checks
  - Routing: go_router for type-safe and declarative navigation
  - Reusability: Common widgets & helpers for consistency
+
+
+## Screenshots
+
+![Home Screen][README.screenshot/a.png]
