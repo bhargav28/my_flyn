@@ -10,22 +10,35 @@
 <pre>
 
 lib/
-├── core/                 # Network & error handling
-│   ├── error/
-│   └── network/
-├── get_it_configuration/ # Dependency injection
+├── core/                            # Core logic like networking and error handling
+│   ├── error/                       # Custom error classes and handlers
+│   └── network/                     # API clients, interceptors, etc.
+│
+├── get_it_configuration/           # Dependency injection setup using get_it
+│
 ├── src/
 │   ├── app/
-│   │   ├── home/
-│   │   │   ├── data/        # Models, mappers, repositories, data sources
-│   │   │   ├── domain/      # Entities, repositories, use cases
-│   │   │   └── presentations/
-│   │   │       ├── controller/
-│   │   │       ├── pages/
-│   │   │       └── widgets/
-│   ├── common/              # Constants & reusable widgets
-│   ├── routes/              # App navigation
-│   └── utils/               # Helper files, dummy data, app config
+│   │   └── home/                    # Home feature module
+│   │       ├── data/               # Data layer
+│   │       │   ├── models/         # Data Transfer Objects (DTOs)
+│   │       │   ├── mappers/        # Map DTOs ↔ domain entities
+│   │       │   ├── repositories/   # Repository implementations
+│   │       │   └── datasources/    # API or local data source logic
+│   │       │
+│   │       ├── domain/             # Domain layer
+│   │       │   ├── entities/       # Business models
+│   │       │   ├── repositories/   # Abstract repository interfaces
+│   │       │   └── usecases/       # Business rules / application logic
+│   │       │
+│   │       └── presentations/      # UI layer (MVVM / MVC / Clean UI)
+│   │           ├── controller/     # View models / logic controllers
+│   │           ├── pages/          # Screens and pages
+│   │           └── widgets/        # Feature-specific UI components
+│
+│   ├── common/                     # Reusable widgets, constants, themes, etc.
+│   ├── routes/                     # Route definitions and navigation logic
+│   └── utils/                      # Utilities, config files, mock data, etc.
+
 
 </pre>
 
